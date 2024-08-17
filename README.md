@@ -1,4 +1,5 @@
 # Comprehensive Analysis of Grid World Environment Using Monte Carlo Methods
+![image](https://github.com/user-attachments/assets/afc1bf67-92ce-4f85-86f6-303b332c9677)
 
 ## Introduction
 This project provides a comparative analysis of four Monte Carlo methods applied to a Grid World environment. In this environment, an agent navigates a grid with actions (Up, Right, Left, Down) and faces rewards and penalties based on its actions. The study explores the effectiveness of these algorithms in both deterministic and stochastic settings.
@@ -42,6 +43,13 @@ Performance was assessed based on:
 
 ## Conclusion
 The project highlights that Off-Policy MC Control is the most reliable across different environments, especially under noisy conditions. It balances exploration and exploitation effectively, making it a robust choice for reinforcement learning tasks.
+![image](https://github.com/user-attachments/assets/f62edc9f-3574-4147-96e6-00ca2b76ab3f)
+
+![image](https://github.com/user-attachments/assets/63050e68-8b68-4168-9dff-762bffd271bd)
+
+![image](https://github.com/user-attachments/assets/29919d57-ba26-48fe-a70a-ccc2d9da245a)
+
+
 
 ## How to Run the Code
 1. Clone the repository.
